@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -sd '' | cut -c1-$(wc -l)
+cut -c1 | paste -s -d ''
