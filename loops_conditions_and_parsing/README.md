@@ -1,1 +1,2 @@
-1-for_best_school: Write a Bash script that displays Best School 10 times
+1-for_best_school: Write a Bash script that displays Best School 10 times using for.
+3-until_best_school: Write a Bash script that displays Best School 10 timesusing untill.
